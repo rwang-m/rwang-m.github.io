@@ -1,14 +1,21 @@
 ---
 layout: post
-category : lessons
+category: lessons
 title: Introduction
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+tagline: Supporting tagline
+tags:
+  - intro
+  - beginner
+  - jekyll
+  - tutorial
+published: true
 ---
 {% include JB/setup %}
 
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
+![image](/assets/post-images/2011-12-29-1a188fee-5d25-4219-ced6-697e4b2c043f.png)
+
 
 ## Overview
 
